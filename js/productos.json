@@ -1,0 +1,72 @@
+[
+    {
+        "id": "tv-01",
+        "titulo": "tv Lg 40°",
+        "imagen": "#",
+        "categoria": {
+            "nombre": "tv",
+            "id": "Tv"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "tv-02",
+        "titulo": "TV sansung 42°",
+        "imagen": "#",
+        "categoria": {
+            "nombre": "tv",
+            "id": "Tv"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "hogar-01",
+        "titulo": "Cafetera philco",
+        "imagen": "#",
+        "categoria": {
+            "nombre": "hogar",
+            "id": "Hogar"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "hogar-02",
+        "titulo": "Microondas Fava",
+        "imagen": "#",
+        "categoria": {
+            "nombre": "hogar",
+            "id": "Hogar"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "hogar-03",
+        "titulo": "Secador Pelo",
+        "imagen": "#",
+        "categoria": {
+            "nombre": "hogar",
+            "id": "Hogar"
+        },
+        "precio": 850
+    },
+    {
+        "id": "heladera-01",
+        "titulo": "Heladera Philco",
+        "imagen": "#",
+        "categoria": {
+            "nombre": "heladera",
+            "id": "Heladera"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "heladera-02",
+        "titulo": "Heladera Dream",
+        "imagen": "#",
+        "categoria": {
+            "nombre": "heladera",
+            "id": "Heladera"
+        },
+        "precio": 25000
+    }
+]
